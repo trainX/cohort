@@ -12,12 +12,12 @@ The ip address and username/password  will be provided via the trainX slack chan
 
 Your column assignments for the feature_data table is below:
 
-0-9: Olu
-10-19: Howard
-20-29: Moe
-30-39: Aaron
-40-49: Mack
-50-59: Jeseekia
+- 0-9: Olu
+- 10-19: Howard
+- 20-29: Moe
+- 30-39: Aaron
+- 40-49: Mack
+- 50-59: Jeseekia
 
 An example of doing this is located here: http://[zeppelin ip]:9995/#/notebook/2DFB6621V
 
