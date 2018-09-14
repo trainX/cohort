@@ -43,8 +43,10 @@ openssl req -new -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out MyCertific
 4. Open the predictor service in nano (text editor in Linux)
 
 ```
-nano gpa_prediction.py
+nano gpa_predictor_nossl.py
 ```
+
+Save the file as gpa_predictor.py 
 
 5. Change the App Run line
 
@@ -84,13 +86,13 @@ This will reconnect you to your screen session.
 
 
 ```
-python2 gpa_prediction.py
+python2 gpa_predictor.py
 ```
 
 When it's ready, it should look like this:
 
 ```
-* Serving Flask app "gpa_prediction" (lazy loading)
+* Serving Flask app "gpa_predictor" (lazy loading)
  * Environment: production
    WARNING: Do not use the development server in a production environment.
    Use a production WSGI server instead.
