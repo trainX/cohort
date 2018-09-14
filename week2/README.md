@@ -4,7 +4,7 @@
 
 ### Background:
 
-During the past week, we used Apache Spark to create a Linear Regression model to predict a persons college GPA based on their high school GPA.  This model is catorogized as supervised learning because we feed the model a set of historical data from students that contains their high school GPA and their college GPA.  This information enables the model to generate a mathmatical equation that can predict college GPA's. 
+During the past week, we used Apache Spark to create a Linear Regression model to predict a persons college GPA based on their high school GPA.  This model is categorized as supervised learning because we feed the model a set of [historical data](https://github.com/trainX/cohort/blob/master/week2/gpa_data.csv) from students that contains their high school GPA and their college GPA.  This information enables the model to generate a mathmatical equation that can predict college GPA's. 
 
 1. Ensure that your GPA Predictor service is working correctly.  Remember, your service has to use HTTPS.  So, you need to secure your service if you haven't already.  The step are in the [Enabling SSL on Flask](#enabling_ssl_on_flask) section of this document
 
