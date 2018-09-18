@@ -1,4 +1,4 @@
-# Sample Feature Extraction Notebook
+# Homework Week 1: Sample Feature Extraction Notebook
 
 ## Goal:  To give you experence with using Zeppelin and with basic Spark RDD methods
 
